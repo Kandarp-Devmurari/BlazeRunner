@@ -2,7 +2,7 @@
 
 Welcome to the Blaze Runner game for Android!
 
-This is an scifi 3D-endless runner game developed by Kandarp Devmurari. The app is available on Google Play Store.
+This is an scifi 3D-endless runner game developed by Kandarp Devmurari. The game is available on Google Play Store.
 
 As an avid game developer/game user myself, I take privacy very seriously.
 I know how irritating it is when the games collect your data without your knowledge.
